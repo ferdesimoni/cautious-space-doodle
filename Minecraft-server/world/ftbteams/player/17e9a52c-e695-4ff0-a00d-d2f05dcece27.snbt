@@ -1,0 +1,17 @@
+{
+	id: "17e9a52c-e695-4ff0-a00d-d2f05dcece27"
+	type: "player"
+	player_name: "emidelrojo"
+	ranks: {
+		17e9a52c-e695-4ff0-a00d-d2f05dcece27: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "emidelrojo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF79"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

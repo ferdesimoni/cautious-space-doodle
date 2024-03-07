@@ -1,0 +1,17 @@
+{
+	id: "4e90bfad-50fb-4599-a1da-b6348982f6f8"
+	type: "player"
+	player_name: "Buypower"
+	ranks: {
+		4e90bfad-50fb-4599-a1da-b6348982f6f8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Buypower"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
